@@ -1,0 +1,21 @@
+.header {    
+    background-image: url("images/apple-pie.jpg");
+    background-position: 0, 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    padding: 50px 0px 0px 0px;
+    position: relative;
+    width:100%;
+}
+div {
+    display: flex;
+    color: black;
+    justify-content: center;
+    background-image: url("images/apple-pie.jpg");
+    z-index: 10;
+}
+
+.picture {
+    z-index: 0;
+}
