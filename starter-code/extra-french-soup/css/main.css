@@ -10,7 +10,11 @@ body {
 }
 
 .header {
+<<<<<<< HEAD
   background-image: url("../images/apple-pie.jpg");
+=======
+  background-image: url("/starter-code/extra-french-soup/images/soup.jpg");
+>>>>>>> 3e962421a493f4c2ca1ac559e67edbfd30c3cff8
   background-position: 0, 0;
   background-repeat: no-repeat;
   background-size: cover;
